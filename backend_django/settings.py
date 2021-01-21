@@ -26,7 +26,7 @@ SECRET_KEY = '#msmnn4i#+lbfs#6f3)hv)1l8z!_#7u86xov6l!!a*pm^gmmw+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [https://herokucardsapp.herokuapp.com/]
+ALLOWED_HOSTS = ['herokucardsapp.herokuapp.com']
 
 
 # Application definition
